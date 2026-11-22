@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Generated at runtime (private / machine-specific)
+reports/
+vendors_cache.json
+ca/
+leaf/
+
+# Editor / OS
+.vscode/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
